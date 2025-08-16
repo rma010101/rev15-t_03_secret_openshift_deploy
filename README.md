@@ -1,5 +1,3 @@
-
-```
 # Weather Backend on OpenShift
 
 ## 1. Purpose
