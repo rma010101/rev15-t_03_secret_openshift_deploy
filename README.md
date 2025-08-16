@@ -107,9 +107,8 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY;
 	```sh
 	curl "http://localhost:3000/api/weather?city=London"
 	```
+![Uploading weather_london.png…]()
 
-
-![weather_london](https://github.com/user-attachments/assets/f293a278-5832-472d-8506-481fb2be231c)
 
 ## OpenShift Deployment Steps
 1. Push your code to the GitHub repository.
