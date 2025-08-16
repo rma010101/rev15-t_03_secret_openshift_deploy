@@ -107,7 +107,8 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY;
 	```sh
 	curl "http://localhost:3000/api/weather?city=London"
 	```
-![weather_london](https://github.com/user-attachments/assets/07330d98-791a-4622-98ba-d376f7af565b)
+
+![WhatsApp Image 2025-08-17 at 00 00 00_57b0e37b](https://github.com/user-attachments/assets/e6acc26c-d6ff-48cb-84e1-0d4e4e2bf98f)
 
 
 
