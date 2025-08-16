@@ -24,8 +24,8 @@ Store your OpenWeatherMap API key in a secret named `openweathermap-api-key`:
 oc create secret generic openweathermap-api-key --from-literal=OPENWEATHER_API_KEY=your_api_key_here
 ```
 
-### Step 2: Reference the Secret in Your Deployment
-In your `backend-openshift.yaml`, reference the secret in the container's environment:
+### Step 2: Reference the Secret in the Deployment
+In `backend-openshift.yaml`, reference the secret in the container's environment:
 ```yaml
 env:
 	- name: OPENWEATHER_API_KEY
