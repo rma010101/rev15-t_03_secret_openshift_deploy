@@ -108,8 +108,8 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY;
 https://weather-backend-route-rma010101-dev.apps.<your-openshift-domain>/api/weather?city=London
 ```
 
-<img src="https://github.com/user-attachments/assets/e5ac26c-d6ff-48cb-8a41-0d4dae2bf98f" width="300"/>
 
+<img width="300" height="183" alt="weather_london" src="https://github.com/user-attachments/assets/124e12ff-2a84-4168-bba7-fa45cdcd9c4e" />
 
 
 ## OpenShift Deployment Steps
