@@ -104,9 +104,9 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY;
 
 ## API Usage
 - Example request:
-	```sh
-	curl "http://localhost:3000/api/weather?city=London"
-	```
+```
+https://weather-backend-route-rma010101-dev.apps.<your-openshift-domain>/api/weather?city=London
+```
 
 ![WhatsApp Image 2025-08-17 at 00 00 00_57b0e37b](https://github.com/user-attachments/assets/e6acc26c-d6ff-48cb-84e1-0d4e4e2bf98f)
 
